@@ -51,3 +51,5 @@ Data Analysis and Reporting Can be adapted for any data summary task (e.g., sale
 This task demonstrates how Python can be used not only for data analysis but also for generating professional documents automatically. By integrating data handling, computation, and report generation, the script is a compact yet powerful tool for turning raw data into actionable reports—applicable in educational, corporate, and analytical settings.
 ### OUTPUT
 
+![Image](https://github.com/user-attachments/assets/18ffffd1-7487-4f73-b129-e80eb3be739a)
+
